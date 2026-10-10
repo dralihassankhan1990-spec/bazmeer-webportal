@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.453.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.26.2",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.10"
+  },
+  "name": "bazmeer-frontend",
+  "private": true,
+  "retrieved_at": {
+    "user_local": "2026-10-10T14:05:53.131+05:00",
+    "user_timezone": "Asia/Karachi",
+    "utc": "2026-10-10T09:05:53.131Z"
+  },
+  "scripts": {
+    "build": "tsc -b && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
